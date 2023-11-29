@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'inter';
+  src: url('~@/assets/fonts/Inter/Inter-VariableFont_slnt,wght.ttf') format('truetype');
+}
+
+ul {
+  padding: 0;
+}
+
+body {
+  line-height: 140%;
+}
